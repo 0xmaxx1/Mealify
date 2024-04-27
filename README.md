@@ -5,3 +5,4 @@ Mealify presents a stunning restaurant landing page, showcasing expert chefs, ex
 ##### https://mealify-food.vercel.app/
 #### live [2]
 ##### https://0xmaxx1.github.io/Mealify/
+![](https://github.com/0xmaxx1/Mealify/blob/main/Mealify.jpg)
